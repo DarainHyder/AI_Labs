@@ -1,1 +1,1 @@
-# AI_Labs
+# Artificial_Intelligence_Labs
